@@ -1,0 +1,3 @@
+- "this" is a **reference variable** that refers to the current object.
+- Can only be used in non-static context.
+- The main use of ​this comes in picture when the attributes and data members share the same name.

@@ -1,0 +1,1 @@
+RAID, or “Redundant Arrays of Independent Disks” is a technique which makes use of a combination of multiple disks instead of using a single disk for increased performance & data redundancy.

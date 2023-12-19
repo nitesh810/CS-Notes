@@ -1,0 +1,1 @@
+Schema is ==a logical representation of a database==. It shows how data is stored and organized, and how the elements relate to each other.

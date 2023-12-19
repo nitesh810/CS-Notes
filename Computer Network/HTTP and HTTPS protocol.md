@@ -1,0 +1,3 @@
+- HTTP is the HyperText Transfer Protocol which defines the set of rules and standards on how the information can be transmitted on the World Wide Web (WWW). It helps the web browsers and web servers for communication. It uses port 80 by default. It is not a secure protocol.
+	
+- HTTPS is the HyperText Transfer Protocol Secure or Secure HTTP. It is an advanced and a secured version of HTTP. It enables secure transactions by encrypting the communication and also helps identify network servers securely. It uses port 443 by default.

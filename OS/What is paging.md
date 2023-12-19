@@ -1,0 +1,1 @@
+Paging is ==a memory management technique in operating systems==. It allows processes to access more memory. Paging improves performance and resource utilization, and reduces the risk of page faults

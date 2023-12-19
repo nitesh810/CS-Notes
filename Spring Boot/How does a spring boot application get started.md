@@ -1,0 +1,2 @@
+
+A Spring Boot application gets started by running the main method in the Application class. This method creates an ApplicationContext, which is a container for all of the beans in the application. The ApplicationContext then starts all of the beans, which in turn starts the application.
